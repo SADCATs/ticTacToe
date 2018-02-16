@@ -4,18 +4,10 @@
 int main(void){
 	int dakota = 100/10;
 	char cString[] = "Carlos has great food!";
-	printf(" __________ __________ __________\n");
-	printf("|          |          |          |\n");
-	printf("|          |          |          |\n");
-	printf("|          |          |          |\n");
-	printf("|__________|__________|__________|\n");
-	printf("|   \  /   |          |          |\n");
-	printf("|    \/    |          |          |\n");
-	printf("|    /\    |          |          |\n");
-	printf("|___/__\___|__________|__________|\n");
-	printf("|          |          |          |\n");
-	printf("|          |          |          |\n");
-	printf("|          |          |          |\n");
-	printf("|__________|__________|__________|\n");	
+	printf(" X |   |   \n");
+	printf("---|---|---\n");
+	printf("   | X |   \n");
+	printf("---|---|---\n");
+	printf("   |   | X \n");
     	return 0;
 }
