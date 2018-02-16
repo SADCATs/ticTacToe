@@ -6,3 +6,4 @@ Will attempt a tic tac toe 3x3 array game in C
  - playable on same terminal against self/another person
  - playable against 'AI'
  - playable online through socket programming
+ - make it look nice
