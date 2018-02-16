@@ -4,7 +4,12 @@
 int main(void){
 	int dakota = 100/10;
 	char cString[] = "Carlos has great food!";
-	int tron = 5;
-	
+
+	printf(" X |   |   \n");
+	printf("---|---|---\n");
+	printf("   | X |   \n");
+	printf("---|---|---\n");
+	printf("   |   | X \n");
+
     	return 0;
 }
