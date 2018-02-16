@@ -3,6 +3,7 @@
 
 int main(void){
 	int dakota = 100/10;
-
-    return 0;
+	char cString[] = "Carlos has great food!";
+	
+    	return 0;
 }
